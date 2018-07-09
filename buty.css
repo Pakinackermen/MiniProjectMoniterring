@@ -1,0 +1,33 @@
+body{
+text-align: center;
+}
+
+  #main{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  }
+  h1#h1{
+    text-align: center;
+    color: white;
+  }
+input[type='text'],#tx{
+ margin-top: 10px;
+}
+input[type='date']{
+  margin-bottom: 50px;
+}
+.btn-success{
+  width: 250px;
+  height: 55px;
+}
+label{
+  color: white;
+}
+.link_con{
+  background-color: white;
+  padding: 10px;
+}
+#login{
+      height: 35px;
+      font-size: 20px;
+}
